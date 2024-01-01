@@ -1,5 +1,4 @@
----
+### ⚠️⚠️⚠️ This was my account when I worked at LeapYear, before we were acquired. ⚠️⚠️⚠️
 
-### ⚠️⚠️⚠️ This is my work account. Please use/reference my personal account: https://github.com/brandonchinn178 ⚠️⚠️⚠️
-
----
+Please use/reference my personal account for all future inquiries:
+https://github.com/brandonchinn178
